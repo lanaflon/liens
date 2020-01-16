@@ -279,6 +279,7 @@
 #### Spring
 
 * [Spring Framework](https://easyjava.ru/spring/)
+* https://github.com/EasyJavaRu
 * [Руководство по Spring](http://proselyte.net/tutorials/spring-tutorial-full-version) - Евгений Сулейманов
 
 
